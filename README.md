@@ -16,3 +16,6 @@
 	where 3 is for corpus_wiki_data.csv
  
 4/ In the .csv file, the data should be in the column name "article". For wiki_data there also should be a column name "keywords". 
+
+
+Required Libraries: numpy, pandas, nltk, re, gensim, sklearn, networkx, community
