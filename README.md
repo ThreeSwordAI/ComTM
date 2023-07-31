@@ -1,9 +1,10 @@
 # ComTM
 
-
-To run the ComTM pipeline:
+## To run the ComTM pipeline:
 1/ Run ComTM.py file in python 3 environment
+
 2/ After running ComTM, the program will ask for input
+
 	where 1 is for News Articles
 	where 2 is for Scientific Abstracts
 	where 3 is for Wiki Data
