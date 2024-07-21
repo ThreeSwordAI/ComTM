@@ -19,3 +19,7 @@
 
 
 Required Libraries: numpy, pandas, nltk, re, gensim, sklearn, networkx, community
+
+## If you are using ComTM, please refer to the following paper:
+
+[Topic Modeling Using Community Detection on a Word Association Graph](https://aclanthology.org/2023.ranlp-1.98/)
